@@ -9,7 +9,6 @@
 // determine what object we are working with : document.querySelector(".hand")
 // determine what property we are changing : transform
 
-<<<<<<< HEAD
 hand.style.transform = `rotate(90deg)`; //🔍 HINT: THis is an example of how to rotate the hand!
 
 // Get the elements for the clock hands
@@ -34,7 +33,6 @@ function setTime() {
 
 // Call the setTime function every second to update the clock hands
 setInterval(setTime, 1000);
-=======
 
 
 
@@ -52,4 +50,3 @@ setInterval(setClock, 1000);
 
 
 //hand.style.transform = `rotate(90deg)`; //🔍 HINT: THis is an example of how to rotate the hand!
->>>>>>> f2c82defb7642680fd25caa4dcc85275e3bd3b07
